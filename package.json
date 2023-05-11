@@ -40,5 +40,5 @@
   "devDependencies": {
     "gh-pages": "^5.0.0"
   },
-  "homepage": "http://{github-username}.github.io/{JS411-todo-list-react}"
+  "homepage": "http://egarza27.github.io/JS411-todo-list-react"
 }
